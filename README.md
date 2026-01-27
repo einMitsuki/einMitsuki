@@ -4,12 +4,11 @@ I'm Luna, a hobby programmer from Germany.
 
 My main tech stack is react, typescript, tailwind and java. My favorite tools are VSCode and Git.
 
-I've got no pinned projects yet...
+I've got one pinned project yet...
 
-I’ve built over 0 public repos, but privately.. it’s probably more than 1? (it's 0 too) 
+I’ve built 1 public repo, but privately.. it’s just 6-7 side quests for my Linux System?
 
 **Fun Facts:**
-- I would say I am an amateur not a noob anymore xD
-- I spent a lot more time into understanding linux than increasing my coding skills (probably lost even more time while trying to understand my french teacher xD)
-- I want to increase my coding skills (soon ig)
-- Dr. Stone is my favourite Anime (I know it's BAD)
+- I use Arch btw :3
+- I can build some lines of code but I ask AI for structures to start coding (someone please teach me coding)
+- I spent a lot more time into understanding arch linux than increasing my coding skills
